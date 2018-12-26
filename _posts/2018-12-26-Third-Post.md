@@ -4,7 +4,7 @@ title: 2주차 리뷰
 
 <h1> SSAFY Start Camp 챗봇 퀘스트
   
-  대전_3_노현우, https://github.com/HyeanWoo
+  <대전_3_노현우, https://github.com/HyeanWoo
 ---
 <h3> I. 스펙
 ---
