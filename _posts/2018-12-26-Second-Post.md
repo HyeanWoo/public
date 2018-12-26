@@ -1,4 +1,3 @@
-1주차 Reflection
 ---
 title: 1주차 포스팅
 ---
